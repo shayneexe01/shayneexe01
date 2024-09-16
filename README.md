@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shayne S. Exequiel
-- 👀 I’m interested in Codings and Innovation of Technologies
+- 👀 I’m interested in Development and Innovation of Technologies
 - 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on Algorithms and Data Structure
 - 📫 Reach me through my email address @exequielshayne21@gmail.com
